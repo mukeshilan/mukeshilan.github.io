@@ -8,14 +8,14 @@
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: 图表分析
-  image: cannon.jpg
+  image: 图表.gif
   
 - title: 网页设计笔记
   url: /notes/rwd/
-  excerpt: "WSG4"
-  image: cannon.jpg
+  excerpt: "WSG4笔记"
+  image: 图1.gif
   
 - title: 信息可视化笔记
   url: /notes/infovis/
-  excerpt: "RWD2"
-  image: cannon.jpg   
+  excerpt: "RWD2笔记"
+  image: 图2.jpg   
