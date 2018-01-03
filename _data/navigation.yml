@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title:网页设计作品集
   url:
-  excerpt:
+  excerpt:2017-2018网页设计作品
+  image:
+  
+  - title:信息可视化作品集
+  url:
+  excerpt:2017-2018信息可视化作品
+  image:
+  
+  - title:网页设计笔记
+  url:
+  excerpt:2017-2018网页设计笔记与心得
+  image:
+  
+  - title:信息可视化化笔记
+  url:
+  excerpt:2017-2018信息可视化笔记与心得
   image:
