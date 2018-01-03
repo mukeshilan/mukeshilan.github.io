@@ -142,6 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+	  border: 3px solid $mediumblue
     }
     .title {
       display: block;
@@ -161,6 +162,9 @@
       @include media($small) {
         margin-left: 170px;
         @include font-size(16,no);
+	}
+  }	
+	.title:hover,.excerpt:hover,.teaser:hover{
        color: $mediumblue;
     }
   }
