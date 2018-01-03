@@ -41,7 +41,7 @@ locales:
 
   # Chinese translation (TODO)
   # -------------------
-  zh: &DEFAULT_zh
+  zh: &DEFAULT_ZH
     <<: *DEFAULT_ZH     # load English values as default
     overview: "总览"
     toc: "目录"
