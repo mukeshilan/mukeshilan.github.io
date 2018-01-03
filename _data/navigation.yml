@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: 网页设计作品集
+  - title: 网页设计作品集
   url: /portfolio/
   excerpt: "2017-2018网页设计作品"
   image: cannon.jpg
@@ -18,4 +18,4 @@
   - title: 信息可视化化笔记
   url: /notes/infovis/
   excerpt: "2017-2018信息可视化笔记与心得"
-  image: cannon.jpg
+  image: cannon.jpg 
