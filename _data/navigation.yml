@@ -1,21 +1,21 @@
-  # Site navigation links
+# Site navigation links
 
-  - title: 网页设计作品集
+- title: 网页设计作品集
   url: /portfolio/
   excerpt: 人物介绍
   image: cannon.jpg
   
-  - title: 信息可视化作品集
+- title: 信息可视化作品集
   url: /infovis/
   excerpt: 图表分析
   image: cannon.jpg
   
-  - title: 网页设计笔记
+- title: 网页设计笔记
   url: /notes/rwd/
   excerpt: "WSG4"
   image: cannon.jpg
   
-  - title: 信息可视化笔记
+- title: 信息可视化笔记
   url: /notes/infovis/
   excerpt: "RWD2"
   image: cannon.jpg   
