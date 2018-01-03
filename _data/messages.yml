@@ -49,5 +49,5 @@ locales:
     updated: "January 03,2018"
     share: "分享"
   zh_CN:
-    <<: *DEFAULT_DE     # use German translation for de_DE
+    <<: *DEFAULT_ZH     # use German translation for de_DE
     
