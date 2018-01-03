@@ -6,7 +6,7 @@ modified:
 excerpt: 展示我认为RWD中重要的内容
 tags: []
 image: 
-  feature: 图2.jpg
+  feature: 
   teaser:
 ---
 
