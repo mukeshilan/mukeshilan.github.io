@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $lemon;
+    background: $mediumblue;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -161,7 +161,7 @@
       @include media($small) {
         margin-left: 170px;
         @include font-size(16,no);
-      }
+       color: $mediumblue;
     }
   }
   .sub-menu-item > li a {
