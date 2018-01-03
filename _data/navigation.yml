@@ -2,20 +2,20 @@
 
   - title: 网页设计作品集
   url: /portfolio/
-  excerpt: "2017-2018网页设计作品"
+  excerpt: 2017_2018网页作品
   image: cannon.jpg
   
   - title: 信息可视化作品集
   url: /infovis/
-  excerpt: "2017-2018信息可视化作品"
+  excerpt: 2017_2018信息可视化作品
   image: cannon.jpg
   
   - title: 网页设计笔记
   url: /notes/rwd/
-  excerpt: "2017-2018网页设计笔记与心得"
+  excerpt: WSG4
   image: cannon.jpg
   
-  - title: 信息可视化化笔记
+  - title: 信息可视化笔记
   url: /notes/infovis/
-  excerpt: "2017-2018信息可视化笔记与心得"
-  image: cannon.jpg
+  excerpt: RWD2
+  image: cannon.jpg   
