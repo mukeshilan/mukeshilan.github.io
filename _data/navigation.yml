@@ -1,21 +1,21 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: http://mukeshilan.github.io
+  url: /portfolio/
   excerpt: "2017-2018网页设计作品"
-  image: 新一.jpg
+  image: cannon.jpg
   
   - title: 信息可视化作品集
-  url: http://mukeshilan.github.io
+  url: /infovis/
   excerpt: "2017-2018信息可视化作品"
-  image: 新一.jpg
+  image: cannon.jpg
   
   - title: 网页设计笔记
-  url: http://mukeshilan.github.io
+  url: /notes/rwd/
   excerpt: "2017-2018网页设计笔记与心得"
-  image: 新一.jpg
+  image: cannon.jpg
   
   - title: 信息可视化化笔记
-  url: http://mukeshilan.github.io
+  url: /notes/infovis/
   excerpt: "2017-2018信息可视化笔记与心得"
-  image: 新一.jpg
+  image: cannon.jpg
