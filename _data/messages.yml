@@ -50,3 +50,4 @@ locales:
     share: "分享"
   zh_CN:
     <<: *DEFAULT_DE     # use German translation for de_DE
+    
