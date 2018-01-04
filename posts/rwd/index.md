@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: "RWD2学习笔记"
 date: 2018-1-3
 modified:
