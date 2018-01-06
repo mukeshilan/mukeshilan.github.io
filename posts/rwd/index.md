@@ -6,8 +6,8 @@ modified:
 excerpt: 展示我认为RWD中重要的内容
 tags: []
 image: 
-  feature: 
-  teaser:
+  feature:posts_RWD2.PNG 
+  teaser:posts_RWD2.PNG
 ---
 
 <div class="tiles">
