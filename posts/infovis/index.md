@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "信息可视化笔记"
-date: 2018-1-3
+date: 2018-01-03
 modified:
 excerpt:
 tags: []

@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: 网页设计作品集
-  url: /posts/portfolio/
+  url: /portfolio/
   excerpt: 人物介绍
   image: cannon.jpg
   
 - title: 信息可视化作品集
-  url: /post/infovis/
+  url: /infovis/
   excerpt: 图表分析
   image: 图表.gif
   

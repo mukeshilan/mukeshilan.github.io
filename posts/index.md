@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "学习笔记"
-date: 2018-1-3
+date: 2018-01-03
 modified:
 excerpt: "分为网页设计笔记和信息可视化笔记两个笔记"
 tags: []
