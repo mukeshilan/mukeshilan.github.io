@@ -6,6 +6,8 @@ modified:
 excerpt: 
 tags: []
 image: 
+  feature: 
+  teaser:
 ---
 
 
