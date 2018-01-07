@@ -9,3 +9,4 @@ date: 2018-01-02T11:40:45-04:00
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+</div><!-- /.tiles 把所有categories 有 chart 的列出來-->
