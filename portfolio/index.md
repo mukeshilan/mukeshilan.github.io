@@ -6,8 +6,6 @@ modified:
 excerpt: 
 tags: []
 image: 
-  feature: posts_portfolio_人物介绍.jpg
-  teaser: posts_portfolio_人物介绍.jpg
 ---
 
 
