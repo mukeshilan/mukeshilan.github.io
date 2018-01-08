@@ -6,8 +6,8 @@ modified:
 excerpt:
 tags: []
 image: 
-  feature: 
-  teaser:
+  feature: posts_infovis_note.jpg
+  teaser: posts_infovis_note.jpg
 ---
 
 
