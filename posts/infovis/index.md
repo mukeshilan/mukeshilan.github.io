@@ -7,9 +7,9 @@ excerpt: 图表的选择和使用规范
 tags: []
 image: 
   feature: posts_infovis_note.jpg
-  teaser: posts_infovis_note.jpg
+  teaser: 
 ---
-
+图表的规范性使用
 
 <div class="tiles">
 {% for post in site.categories.infovis %}
