@@ -3,7 +3,7 @@ layout: archive
 title: "信息可视化笔记"
 date: 2018-01-03
 modified:
-excerpt: "图表的选择和使用规范"
+excerpt: 图表的选择和使用规范
 tags: []
 image: 
   feature: posts_infovis_note.jpg
