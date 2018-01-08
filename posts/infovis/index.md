@@ -6,7 +6,7 @@ modified:
 excerpt: 图表的选择和使用规范
 tags: []
 image: 
-  feature: 
+  feature: posts_infovis_note.jpg 
   teaser: 
 ---
 图表的规范性使用
